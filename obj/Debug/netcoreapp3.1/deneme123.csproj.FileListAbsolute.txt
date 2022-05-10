@@ -1,0 +1,13 @@
+/Users/ahmethamzaustun/Projects/deneme123/bin/Debug/netcoreapp3.1/deneme123.deps.json
+/Users/ahmethamzaustun/Projects/deneme123/bin/Debug/netcoreapp3.1/deneme123.runtimeconfig.json
+/Users/ahmethamzaustun/Projects/deneme123/bin/Debug/netcoreapp3.1/deneme123.runtimeconfig.dev.json
+/Users/ahmethamzaustun/Projects/deneme123/bin/Debug/netcoreapp3.1/deneme123.dll
+/Users/ahmethamzaustun/Projects/deneme123/bin/Debug/netcoreapp3.1/deneme123.pdb
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.csproj.AssemblyReference.cache
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.AssemblyInfoInputs.cache
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.AssemblyInfo.cs
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.csproj.CoreCompileInputs.cache
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.dll
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.pdb
+/Users/ahmethamzaustun/Projects/deneme123/obj/Debug/netcoreapp3.1/deneme123.genruntimeconfig.cache
